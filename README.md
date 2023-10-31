@@ -7,7 +7,7 @@ The aim of the assignment was to create a decision tree model to predict which w
 
 # About the Dataset
 
-Decision Tree - Wine Quality
+Decision Tree - Wine Quality \
 <sub><sup>P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. \
 Modeling wine preferences by data mining from physicochemical properties. \
 In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.<sub><sup> 
