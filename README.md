@@ -1,6 +1,6 @@
 # Decision Tree - Wine Quality
 
-[Link to Report (FI)](wine-quality.ipynb)
+[Link to the Report (FI)](wine-quality.ipynb)
 
 # Aim of the Analysis
 The aim of the assignment was to create a decision tree model to predict which attributes affect the wine quality.
